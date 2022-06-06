@@ -1,0 +1,8 @@
+To test the push command
+
+Steps for pushing
+*initiate
+*Check staging area
+*commit
+*check staging area
+*push
